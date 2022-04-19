@@ -6,4 +6,4 @@ Linux: `??`
 
 Scratch Matchbox shader install location
 Windows: `C:\ProgramData\Assimilator\plugin64\Matchbox`
-OSX: `??`
+OSX: `/Library/Application Support/Assimilator/Plugins/Matchbox/shaders`
